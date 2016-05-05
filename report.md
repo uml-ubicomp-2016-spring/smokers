@@ -1,5 +1,5 @@
 
-![GitHub Logo](https://github.com/uml-ubicomp-2016-spring/smokers/blob/master/watch.JPG?raw=true)
+![GitHub Logo](https://github.com/uml-ubicomp-2016-spring/smokers/blob/master/graph1.png?raw=true)
 ![GitHub Logo](https://github.com/uml-ubicomp-2016-spring/smokers/blob/master/watch.JPG?raw=true)
 
 
