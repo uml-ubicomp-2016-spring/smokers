@@ -23,7 +23,7 @@ Due to the limited finance and time,we only test this on our team members:Ye Tia
 
 Android smart phone with  SDK-19 android system.
 
-![GitHub Logo](https://github.com/uml-ubicomp-2016-spring/smokers/blob/master/graph1.png?raw=true)
+![GitHub Logo](https://github.com/uml-ubicomp-2016-spring/smokers/blob/master/watch.JPG?raw=true)
 
 **Features**
 
@@ -40,8 +40,8 @@ For the SVM model we used Gaussian kernel,which is also referred to as RBF.In mo
 Here is a graph of experimental testing-result of the SVM model.
 
 
+![GitHub Logo](https://github.com/uml-ubicomp-2016-spring/smokers/blob/master/graph1.png?raw=true)
 
-![GitHub Logo](https://github.com/uml-ubicomp-2016-spring/smokers/blob/master/watch.JPG?raw=true)
 
 In this graph x axis shows the number of positive clicks used for training(one positive sample may generate 1-3 positive frames),y axis shows the result of test on 217 positive samples,all positive samples come from my clicks ,the number of negative samples are always 2870.The test is finished in experimental environment.
 One problem with our approach is that we found out ,different persons click a lighter in different ways(different in strength and speed).So we have also made a test on positive samples created by different subjects.
