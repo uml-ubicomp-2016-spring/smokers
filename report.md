@@ -1,3 +1,9 @@
+
+
+
+italics = *italics*
+bold  = **bold**
+bold italics = ***bold italics***
 "Detection of smoking behavior with android smart watch"
 Han Geng,Ye Tian,Yuting Xie
 Ubiquitous computing ,Spring 2016,UMASS Lowell
