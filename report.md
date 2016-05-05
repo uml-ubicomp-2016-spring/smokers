@@ -1,12 +1,12 @@
 
 
 
-italics = *italics*
-bold  = **bold**
-bold italics = ***bold italics***
+
 
 **Detection of smoking behavior with android smart watch**
+
 *Han Geng,Ye Tian,Yuting Xie*
+
 *Ubiquitous computing ,Spring 2016,UMASS Lowell*
 
 **Introduction**
@@ -16,11 +16,13 @@ Smoking is considered as a big reason of lung cancer,and it also causes a lot of
 **Methods**
 
 *Subjects and measurements*
+
 Due to the limited finance and time,we only test this on our team members:Ye Tian and me.we have tested this in both experimental situation and outside environment.
 
 **Device**
 
 Android smart phone with  SDK-19 android system.
+
 ![GitHub Logo](https://github.com/uml-ubicomp-2016-spring/smokers/blob/master/graph1.png?raw=true)
 
 **Features**
@@ -59,6 +61,7 @@ And in the link below is video demo of this part:
 
 
 **Topology graph**
+
 ![GitHub Logo](https://github.com/uml-ubicomp-2016-spring/smokers/blob/master/topo.PNG?raw=true)
 
 and here is another demo to show a completed successful detection:
