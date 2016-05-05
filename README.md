@@ -5,6 +5,7 @@ smoking behavior detection on android wearable devices
 team members: Han Geng,Ye Tian,Tingna Xie
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/0YwCEhQb5EQ/0.jpg)](http://www.youtube.com/watch?v=0YwCEhQb5EQ "Video Title")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/tisqz-G4AOs/0.jpg)](http://www.youtube.com/watch?v=tisqz-G4AOs "Video Title")
 
 week 1: 27th march 
 we achieved detection of smoking gestures using accelerometer and orietation sensor in android watch ,the basic idea is that when users are trying to smoke ,they must conduct several drags ,hence the watch will be kept in a specific position.so values of "pitch" and "roll" will stay in a specific range for a short period ,then we can predict smoking gestures based on values of pitch and roll.
